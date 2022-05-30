@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Pikachu",
+      "image": "https://i.etsystatic.com/6725718/r/il/66aae1/1075565901/il_794xN.1075565901_d532.jpg",
+      "likes": 0,
+      "id": 9
     }
   ]
 }
